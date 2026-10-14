@@ -1,5 +1,5 @@
 [![Java CI with Maven](https://github.com/azsombor006/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/azsombor006/se-lab/actions/workflows/maven.yml)
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # SE Spaceship
 
